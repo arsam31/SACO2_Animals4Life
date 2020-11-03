@@ -33,3 +33,6 @@ All of them were siboptimal, and did not provide the capabilities the business n
 Now all of the business's global offices , as well as their mobile field workers, consume services from the Brisbone office.
 # Cost-Conscious but progressive management team 
 Animals4Life is very cost-conscious, but equally, very progressive, and willing to try new things, and adopt new technologies as long as it has a business benifits
+
+
+![GFDGFDGDFGDFGDFGDFGDFGDFGDFGD](https://github.com/arsam31/animals4life/blob/main/Capture.PNG)
