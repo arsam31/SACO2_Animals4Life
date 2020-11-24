@@ -51,17 +51,26 @@ Animals4Life is very cost-conscious, but equally, very progressive, and willing 
 # Current Problems
 
 -Legacy on-premises hardware is Failing 
+
 -AWS/AZURE Pilots are messy and not best practices
+
 -Performance issues for field workers 
+
 -Lack of HA and scalability - hardware is expensive
+
 -Staff skill/Capabilities struggle .. little automation 
+
 -Global expension concerns - cost for new infrastructure
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Ideal Outcomes 
 
 -Fast performance for all field workers 
+
 -Able to deploy into new regions quickly when required 
+
 -Low cost and Scalable base infrastructure 
+
 -Agility- Spin up new marketing companies , social and progressive applications(IOT, Big Data etc)
+
 -Automation - Low base staffing costs.
 
